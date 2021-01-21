@@ -1,5 +1,7 @@
 # Codes for class MATH 6397 Pattern Recognition and Machince Learning
 
+This course is based on the book Data_Driven_Science_Python of Brunton. This repository contains codes for that book and for my project.
+
 ## Codes for the book Data_Driven_Science_Python of Prof. Brunton
 
 <img src="http://www.databookuw.com/files/stacks-image-5bffc53-882x1200.png" alt="Data Driven Book Cover" width="200"/>
